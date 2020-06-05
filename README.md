@@ -1,6 +1,6 @@
 # countdown
 
-Geri sayım uygulaması
+flutter 일정 카운트 다운 앱입니다.
 
 ## Getting Started
 
